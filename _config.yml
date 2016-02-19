@@ -1,7 +1,7 @@
 name: Pixie Fabrics
 favicon: null
-layout_spectrum: 0.6827364014461637
-typography_spectrum: 0.5738490079529583
+layout_spectrum: 1
+typography_spectrum: 0.73668
 cta:
   domain: null
   bucket: null
