@@ -4,8 +4,15 @@
         <description><![CDATA[Pixie Fabrics]]></description>
         <link>https://thegrid.ai/pixie-fabrics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 04:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 04:32:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pixie-fabrics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cafdd5a-905e-4030-8a51-50307d2dfe7b.jpg">]]></description>
+            <link>https://thegrid.ai/pixie-fabrics/76184e8c-df17-4231-ab01-a5e9d8ba9177/index.html</link>
+            <guid isPermaLink="false">76184e8c-df17-4231-ab01-a5e9d8ba9177</guid>
+            <pubDate>Fri, 19 Feb 2016 04:32:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fb5181f-9846-40e2-954f-a1ec3230f254.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pixie-fabrics/d71cedf9-d25d-45b2-a9a9-96f8355dcc24/index.html</link>
             <guid isPermaLink="false">d71cedf9-d25d-45b2-a9a9-96f8355dcc24</guid>
             <pubDate>Fri, 19 Feb 2016 04:27:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/695184c0-0725-4454-b830-e5ee8ad566b0.jpg">]]></description>
-            <link>https://thegrid.ai/pixie-fabrics/698d7620-fe51-4132-b753-d53406d697c5/index.html</link>
-            <guid isPermaLink="false">698d7620-fe51-4132-b753-d53406d697c5</guid>
-            <pubDate>Fri, 19 Feb 2016 04:23:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
