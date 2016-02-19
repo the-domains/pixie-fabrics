@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Pixie Fabrics]]></title>
+        <description><![CDATA[Pixie Fabrics]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 03:12:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Pixie fabrics imports the highest quality fabrics to Vietnam for you! Our fabrics are imported from the worlds top fabric mills and designers. We are constantly adding new prints and collections to serve our customers distinguished tastes.</p>]]></description>
+            <link>undefined076345d6-b435-4dfe-baa1-a95ca1177d23/index.html</link>
+            <guid isPermaLink="false">076345d6-b435-4dfe-baa1-a95ca1177d23</guid>
+            <pubDate>Fri, 19 Feb 2016 03:11:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
